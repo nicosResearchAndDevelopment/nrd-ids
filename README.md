@@ -4,12 +4,12 @@
 International Data Spaces by nicos Research & Development GmbH
 
 
-## IDS Developers Community (by nicos R&D, nrd-ids-dc)
+## IDS Developers Community (by nicos R&D)
 
-[(https://github.com/nicosResearchAndDevelopment/nrd-ids-dc)](https://github.com/nicosResearchAndDevelopment/nrd-ids-dc)
+[(https://github.com/nicosResearchAndDevelopment/nrd-ids/tree/master/DevelopersCommunity)](https://github.com/nicosResearchAndDevelopment/nrd-ids/tree/master/DevelopersCommunity)
 
 
-## IDS Dynamic Attribute Provisioning Service (edition "Developers Community" by nicos R&D, nrd-ids-daps-dc)
+## IDS Dynamic Attribute Provisioning Service (edition "Developers Community" by nicos R&D)
 
 [(https://github.com/nicosResearchAndDevelopment/nrd-ids-daps-dc)](https://github.com/nicosResearchAndDevelopment/nrd-ids-daps-dc)
 
