@@ -1,5 +1,5 @@
 
-# Developers Cummunity
+# IDS-DC
 
-Developers Cummunity of International Data Spaces
+Developers Community of International Data Spaces
 
