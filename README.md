@@ -1,17 +1,19 @@
 
 # International Data Spaces by nicos Research & Development
 
-International Data Spaces by nicos Research & Development GmbH
+[International Data Spaces](https://www.internationaldataspaces.org) by nicos Research & Development GmbH.
 
 
-## IDS Developers Community (by nicos R&D)
+## [GAIAboX](https://github.com/nicosResearchAndDevelopment/nrd-GAIAboX)
 
-[(https://github.com/nicosResearchAndDevelopment/nrd-ids/tree/master/DevelopersCommunity)](https://github.com/nicosResearchAndDevelopment/nrd-ids/tree/master/DevelopersCommunity)
+Data-server done on **Linked Data Platform** (`LDP`) implementing
+ [International Data Spaces Connector](https://github.com/International-Data-Spaces-Association/IDS-G/tree/master/core/Connector)
+ technology and [other interfaces](https://github.com/nicosResearchAndDevelopment/nrd-GAIAboX).
 
 
-## IDS Dynamic Attribute Provisioning Service (edition "Developers Community" by nicos R&D)
+## nicos Research & Development IDS Test Bed ([nrd-ids-tb](https://github.com/nicosResearchAndDevelopment/nrd-ids/tree/master/TestBed))
 
-[(https://github.com/nicosResearchAndDevelopment/nrd-ids-daps-dc)](https://github.com/nicosResearchAndDevelopment/nrd-ids-daps-dc)
+[Here](https://github.com/nicosResearchAndDevelopment/nrd-ids/tree/master/TestBed).
 
 ---
 
